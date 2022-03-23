@@ -1,4 +1,4 @@
-#Site link https://todo-app-cf7cb.web.app/todo
+#Site link https://todo-app-cf7cb.web.app
 
 # Getting Started with Create React App
 
